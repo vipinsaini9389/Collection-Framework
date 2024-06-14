@@ -1,3 +1,4 @@
+//Write a Java program to remove the first and last elements from a linked list.
 package Assignment;
 import java.util.*;
 public class Remove {
