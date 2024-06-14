@@ -1,3 +1,4 @@
+//Write a Java program to convert a priority queue to an array containing all its elements.
 package Assignment;
 import java.util.*;
 public class priorityqueue {
